@@ -1,6 +1,6 @@
 ## 😄😄😄 HELOOO DUDE 😄😄😄 !!!
 WELCOME TO MY GITHUB PAGES ~ 😇 ERICK EZRANDY 😇
-OPERATING SYSTEM 2021-2022
+<br> OPERATING SYSTEM 2021-2022
 
 [LOG] | [REPOSITORY](https://github.com/ErickEzrandy274/os212)
 
