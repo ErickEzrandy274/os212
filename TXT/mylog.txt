@@ -5,9 +5,11 @@ ZCZC W00 05 L00 General, etc.
 ZCZC W00 10 L01 SCELE/Discord related
 ZCZC W00 100 L02 ZOOM meetings related
 ZCZC W00 10 L03 GitHub related
-ZCZC W00 5 L04 GitHub Pages related
+ZCZC W00 05 L04 GitHub Pages related
 ZCZC W00 10 L06 Read slides OS00
-ZCZC W00 10 L07 Reading What defines an Operating System?
-ZCZC W01 15 L31 Install VirtualBox, Putty, and WinSCP
+ZCZC W00 10 L06 Reading What defines an Operating System?
+ZCZC W01 15 L31 Install VirtualBox
+ZCZC W01 20 L28 SSH, key-gen, tunneling, putty, winscp
 ZCZC W01 100 L02 ZOOM meetings related
-ZCZC W01 5 L22 Quiz Week 00
+ZCZC W01 05 L22 Quiz Week 00
+ZCZC W01 650 L09 Assignment in General
