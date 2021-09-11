@@ -22,3 +22,8 @@ bagaimana menulis script dan menjalankannya dengan menggunakan bash.<br/><br/>
 Video ini mengajarkan bagaimana caranya meng-<i>copy-paste</i> suatu kata, me-<i>replace</i> suatu kata, <br/>
 <i>page up and down</i>, dan pindah ke suatu baris. <i>Keystroke-keystroke</i> mendasar yang sering dipakai<br/>
 juga diajarkan sehingga bermanfaat bagi kita ke depannya.<br/><br/>
+
+5. [Learning Awk Is Essential For Linux Users](https://youtu.be/9YOZmI-zWok)<br/>
+Video ini menjelaskan dengan detail cara menggunakan awk untuk scripting bagi pengguna Linux.<br/>
+Mulai dari scripting yang sederhana sampai yang lumayan kompleks dan menurut saya, <br/>
+scripting menggunakan awk sangatlah mudah. Jadi, direkomendasikan bagi pengguna pemula Linux.<br/><br/>
