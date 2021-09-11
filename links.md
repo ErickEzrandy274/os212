@@ -20,5 +20,5 @@ bagaimana menulis script dan menjalankannya dengan menggunakan bash.<br/><br/>
 
 4. [Nano Editor Fundamentals ](https://youtu.be/gyKiDczLIZ4) <br/>
 Video ini mengajarkan bagaimana caranya meng-<i>copy-paste</i> suatu kata, me-<i>replace</i> suatu kata, <br/>
-<i>page up and down</i>, dan pindah ke suatu baris. <i>KeyStroke-keystroke</i> mendasar <br/>
+<i>page up and down</i>, dan pindah ke suatu baris. <i>Keystroke-keystroke</i> mendasar yang sering dipakai<br/>
 juga diajarkan sehingga bermanfaat bagi kita ke depannya.<br/><br/>
