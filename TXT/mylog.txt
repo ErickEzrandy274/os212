@@ -13,3 +13,4 @@ ZCZC W01 20 L28 SSH, key-gen, tunneling, putty, winscp
 ZCZC W01 100 L02 ZOOM meetings related
 ZCZC W01 05 L22 Quiz Week 00
 ZCZC W01 650 L09 Assignment in General
+ZCZC W02 90 L02 ZOOM meetings related
