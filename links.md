@@ -27,3 +27,10 @@ juga diajarkan sehingga bermanfaat bagi kita ke depannya.<br/><br/>
 Video ini menjelaskan dengan detail cara menggunakan awk untuk scripting bagi pengguna Linux.<br/>
 Mulai dari scripting yang sederhana sampai yang lumayan kompleks dan menurut saya, <br/>
 scripting menggunakan awk sangatlah mudah. Jadi, direkomendasikan bagi pengguna pemula Linux.<br/><br/>
+
+6. [What is Cyber Security? | Introduction to Cyber Security](https://youtu.be/ooJSgsB5fIE)<br/>
+Video ini mengajarkan mengapa kita butuh <i>security</i>, apa itu <i>security</i>,<br/>
+<i>The CIA Triad</i>,<i>Vulnerability,Threat, and Risk</i>, dan <i>Cognitive Cyber Security.</i><br/></br>
+
+7. [C Beginner's Handbook](https://www.freecodecamp.org/news/the-c-beginners-handbook/)<br/>
+Cocok bagi pemula yang ingin belajar bahasa pemrograman C tapi tak memiliki banyak waktu<br/><br/>
