@@ -33,4 +33,9 @@ Video ini mengajarkan mengapa kita butuh <i>security</i>, apa itu <i>security</i
 <i>The CIA Triad</i>,<i>Vulnerability,Threat, and Risk</i>, dan <i>Cognitive Cyber Security.</i><br/>
 
 7. [C Beginner's Handbook](https://www.freecodecamp.org/news/the-c-beginners-handbook/)<br/>
-Cocok bagi pemula yang ingin belajar bahasa pemrograman C tapi tak memiliki banyak waktu<br/><br/>
+Cocok bagi pemula yang ingin belajar bahasa pemrograman C tapi tak memiliki banyak waktu<br/>
+
+8. [Files & File Systems: Crash Course Computer Science #20](https://youtu.be/KN8YgJnShPM)<br/>
+Video ini mengajarkan bagaimana suatu file ditata dan bagaimana cara mengatur file jika<br/>
+ditambahkan, dihapus, atau dipindahkan ke suatu folder lain. Selain itu, video juga mengajarkan<br/>
+metode yng dipakai sistem operasi untuk mengatur sistem file seperti menggunakan Defragmentation.<br/>
