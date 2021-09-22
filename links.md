@@ -43,3 +43,8 @@ metode yng dipakai sistem operasi untuk mengatur sistem file seperti menggunakan
 9. [Linux File System/Structure Explained!](https://youtu.be/HbgzrKJvDRw)<br/>
 Video ini menjelaskan isi dan kegunaan dari folder yang ada di dalam root di Linux.<br/>
 
+10. [Explaining File Systems: NTFS, exFAT, FAT32, ext4 & More](https://youtu.be/_h30HBYxtws)<br/>
+Memberikan perbedaan seperti kelebihan dan kekurangan antara NTFS, exFAT, FAT32, ext4, dan lain-lain.<br/>
+Selain itu, juga diberikan pilihan file system yang ideal untuk pengguna Windows, Linux, atau Mac OS.<br/>
+
+ 
