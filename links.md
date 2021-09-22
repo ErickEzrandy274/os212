@@ -39,3 +39,7 @@ Cocok bagi pemula yang ingin belajar bahasa pemrograman C tapi tak memiliki bany
 Video ini mengajarkan bagaimana suatu file ditata dan bagaimana cara mengatur file jika<br/>
 ditambahkan, dihapus, atau dipindahkan ke suatu folder lain. Selain itu, video juga mengajarkan<br/>
 metode yng dipakai sistem operasi untuk mengatur sistem file seperti menggunakan Defragmentation.<br/>
+
+9. [Linux File System/Structure Explained!](https://youtu.be/HbgzrKJvDRw)<br/>
+Video ini menjelaskan isi dan kegunaan dari folder yang ada di dalam root di Linux.<br/>
+
