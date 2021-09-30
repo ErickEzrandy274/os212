@@ -29,5 +29,7 @@ ZCZC W03 27 L32 YouTube: watch file systems Part 2
 ZCZC W03 100 L02 ZOOM meetings related
 ZCZC W03 60 L11 Skim read chapter 13 and 14
 ZCZC W04 100 L02 ZOOM meetings related
-ZCZC W04 30 L09 Assignment in General
+ZCZC W04 40 L09 Assignment in General
 ZCZC W04 20 L22 Quiz Week 03 
+ZCZC W04 110 L02 ZOOM meetings related
+
