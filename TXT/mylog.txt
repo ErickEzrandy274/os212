@@ -35,4 +35,6 @@ ZCZC W04 110 L02 ZOOM meetings related
 ZCZC W05 90 L02 ZOOM meetings related
 ZCZC W05 100 L09 Assignment in General
 ZCZC W05 20 L22 Quiz Week 04
-
+ZCZC W05 08 L32 YouTube: watch segmented and pages
+ZCZC W05 12 L32 YouTube: watch virtual memory
+  

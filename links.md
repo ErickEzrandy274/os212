@@ -47,4 +47,11 @@ Video ini menjelaskan isi dan kegunaan dari folder yang ada di dalam root di Lin
 Memberikan perbedaan seperti kelebihan dan kekurangan antara NTFS, exFAT, FAT32, ext4, dan lain-lain.<br/>
 Selain itu, juga diberikan pilihan file system yang ideal untuk pengguna Windows, Linux, atau Mac OS.<br/>
 
+11. [Segmented, Paged and Virtual Memory](https://youtu.be/p9yZNLeOj4s)<br/>
+Memberkan penjelasan mengenai segmented dan pages serta menentukan manakah yang lebih baik. <br/>
+
+12. [What is virtual memory? – Gary explains](https://youtu.be/2quKyPnUShQ)<br/>
+Video ini menjelaskan apa itu virtual memory, bagaimana cara kerjanya, dan juga <br/>
+menjelaskan alasan yang mengakibatkan MMU membangkitkan <i>error/fault</i>.<br/>
+
  
