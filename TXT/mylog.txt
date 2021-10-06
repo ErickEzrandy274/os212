@@ -32,4 +32,7 @@ ZCZC W04 100 L02 ZOOM meetings related
 ZCZC W04 40 L09 Assignment in General
 ZCZC W04 20 L22 Quiz Week 03 
 ZCZC W04 110 L02 ZOOM meetings related
+ZCZC W05 90 L02 ZOOM meetings related
+ZCZC W05 100 L09 Assignment in General
+ZCZC W05 20 L22 Quiz Week 04
 
