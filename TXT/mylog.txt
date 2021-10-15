@@ -39,4 +39,7 @@ ZCZC W05 08 L32 YouTube: watch segmented and pages
 ZCZC W05 12 L32 YouTube: watch virtual memory
 ZCZC W05 90 L02 ZOOM meetings related
 ZCZC W05 30 L11 Skim read chapter 10
-
+ZCZC W06 90 L02 ZOOM meetings related
+ZCZC W06 200 L09 Weekly Assignments
+ZCZC W06 20 L22 Quiz Week 05
+ZCZC W06 105 L02 ZOOM meetings related
