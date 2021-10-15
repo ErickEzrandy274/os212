@@ -43,3 +43,5 @@ ZCZC W06 90 L02 ZOOM meetings related
 ZCZC W06 200 L09 Weekly Assignments
 ZCZC W06 20 L22 Quiz Week 05
 ZCZC W06 105 L02 ZOOM meetings related
+ZCZC W06 14 L32 YouTube: watch fork() in linux
+ZCZC W06 21 L32 YouTube: watch fork() and exec() System Calls 

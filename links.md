@@ -54,4 +54,16 @@ Memberkan penjelasan mengenai segmented dan pages serta menentukan manakah yang 
 Video ini menjelaskan apa itu virtual memory, bagaimana cara kerjanya, dan juga <br/>
 menjelaskan alasan yang mengakibatkan MMU membangkitkan <i>error/fault</i>.<br/>
 
- 
+13. [fork() in linux](https://youtu.be/CaWgJIbwb-4)<br/>
+Video ini menjelaskan apa itu fork(), bagaimana proses setelah pemanggilan method fork(), <br/>
+memberi tahu bahwa method fork() akan mereturn PID untuk parent dan mereturn 0 untuk anak.<br/>
+Selain itu, video ini juga dilengkapi dengan pembahasan soal berupa menebak output dari suatu program. <br/>
+
+14. [fork() and exec() System Calls](https://youtu.be/IFEFVXvjiHY)<br/>
+Dijelaskan dengan rinci mengenai perbedaan method fork() dan exec() dimana fork() itu membuat proses <br/>
+baru yang sama persis secara terpisah (parent dan child). Namun, exec() akan <b>menggantikan</b> suatu <br/>
+proses di program tersebut dengan proses lain. Selain itu, diberitahukan juga bahwa ketika memanggil <b>n</b><br/>
+fork(), total proses menjadiya 2<sup><b>n</b></sup>. Video ini juga dilengkapi proses demo sehingga <br/>
+mempermudah pemahaman mengenai fork() dan exec().
+
+  
