@@ -63,7 +63,7 @@ Selain itu, video ini juga dilengkapi dengan pembahasan soal berupa menebak outp
 Dijelaskan dengan rinci mengenai perbedaan method fork() dan exec() dimana fork() itu membuat proses <br/>
 baru yang sama persis secara terpisah (parent dan child). Namun, exec() akan <b>menggantikan</b> suatu <br/>
 proses di program tersebut dengan proses lain. Selain itu, diberitahukan juga bahwa ketika memanggil <b>n</b><br/>
-fork(), total proses menjadiya 2<sup><b>n</b></sup>. Video ini juga dilengkapi proses demo sehingga mempermudah<br/>
+fork(), total prosesnya menjadi 2<sup><b>n</b></sup>. Video ini juga dilengkapi proses demo sehingga mempermudah<br/>
 pemahaman mengenai fork() dan exec().
 
   
