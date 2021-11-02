@@ -66,4 +66,16 @@ proses di program tersebut dengan proses lain. Selain itu, diberitahukan juga ba
 fork(), total prosesnya menjadi 2<sup><b>n</b></sup>. Video ini juga dilengkapi proses demo sehingga mempermudah<br/>
 pemahaman mengenai fork() dan exec().
 
-  
+15. [Introduction to Threads](https://youtu.be/LOfGJcVnvAk)<br/>
+Penjelasan mengenai apa itu threads, terdiri atas apa saja threads itu, dan jenis-jenis threads yang ada.<br/>
+Selain itu, video ini juga menjelaskan dengan detail mengenai perbedaan antara <i>Single-threaded process</i><br/> 
+dan <i>Multi-threaded process</i> serta menjelaskan manfaat dari penerapan <i>Multi-threaded process</i>, seperti <br/> dari segi <i>responsiveness, resource sharing, economy, </i> dan <i>utilization of multiprocessor architectures</i><br/>
+
+16. [Process Synchronization](https://youtu.be/ph2awKa8r5Y)<br/>
+Diawali dengan membahas <i>Cooperating Processes</i> yang mana terbagi menjadi 2 bagian, yaitu <i>share a logical<br/>
+address space (code and data)</i> dan <i>share data only</i>. Dilanjutkan dengan solusi untuk mengatasi<br/>
+permasalahan keinkonsistenan dari sebuah data, yaitu dengan menggunakan skema <i>producer</i> dan <i>consumer.</i><br/>
+
+
+ 
+   
